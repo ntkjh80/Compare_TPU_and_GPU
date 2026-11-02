@@ -1,0 +1,104 @@
+[
+  {
+    "sample": "code",
+    "repeat": 0,
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 1.2004587915726006e-05,
+    "mae": 1.3420863102661364e-07,
+    "rmse": 2.588648677835605e-07,
+    "p99_abs": 9.316339856013663e-07,
+    "rel_l2": 3.3575888158813945e-07,
+    "cosine": 0.9999999999999438,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      3
+    ]
+  },
+  {
+    "sample": "code",
+    "repeat": 1,
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 1.2004587915726006e-05,
+    "mae": 1.3420863102661364e-07,
+    "rmse": 2.588648677835605e-07,
+    "p99_abs": 9.316339856013663e-07,
+    "rel_l2": 3.3575888158813945e-07,
+    "cosine": 0.9999999999999438,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      3
+    ]
+  },
+  {
+    "sample": "korean",
+    "repeat": 0,
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 5.732174031436443e-06,
+    "mae": 1.3162017345072892e-07,
+    "rmse": 2.3569025248625274e-07,
+    "p99_abs": 9.379736729897573e-07,
+    "rel_l2": 3.0241887482371913e-07,
+    "cosine": 0.9999999999999545,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      32
+    ]
+  },
+  {
+    "sample": "korean",
+    "repeat": 1,
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 5.732174031436443e-06,
+    "mae": 1.3162017345072892e-07,
+    "rmse": 2.3569025248625274e-07,
+    "p99_abs": 9.379736729897573e-07,
+    "rel_l2": 3.0241887482371913e-07,
+    "cosine": 0.9999999999999545,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      32
+    ]
+  },
+  {
+    "sample": "numbers",
+    "repeat": 0,
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 9.158567991107702e-06,
+    "mae": 1.3549996874739602e-07,
+    "rmse": 2.4333534566491346e-07,
+    "p99_abs": 9.245739784091718e-07,
+    "rel_l2": 2.947522374441199e-07,
+    "cosine": 0.999999999999957,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      32
+    ]
+  },
+  {
+    "sample": "numbers",
+    "repeat": 1,
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 9.158567991107702e-06,
+    "mae": 1.3549996874739602e-07,
+    "rmse": 2.4333534566491346e-07,
+    "p99_abs": 9.245739784091718e-07,
+    "rel_l2": 2.947522374441199e-07,
+    "cosine": 0.999999999999957,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      32
+    ]
+  }
+]

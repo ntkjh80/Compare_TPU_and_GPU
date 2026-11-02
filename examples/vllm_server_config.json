@@ -1,0 +1,15 @@
+{
+  "served_model_name": "parity-qwen",
+  "dtype": "bfloat16",
+  "kv_cache_dtype": "auto",
+  "logprobs_mode": "raw_logprobs",
+  "tensor_parallel_size": 1,
+  "pipeline_parallel_size": 1,
+  "max_model_len": 256,
+  "max_num_seqs": 1,
+  "prefix_caching": false,
+  "chunked_prefill": false,
+  "speculative_decoding": false,
+  "enforce_eager": false,
+  "generation_config": "vllm"
+}

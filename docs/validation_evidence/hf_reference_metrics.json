@@ -1,0 +1,1355 @@
+[
+  {
+    "sample": "code",
+    "tensor": "layer_000.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 6.198883056640625e-06,
+    "mae": 2.2064456978958852e-07,
+    "rmse": 3.329444265335431e-07,
+    "p99_abs": 1.2069940567016602e-06,
+    "rel_l2": 1.9720128736972944e-06,
+    "cosine": 0.9999999999980596,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      5,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_001.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 4.0531158447265625e-06,
+    "mae": 3.4383075282156436e-07,
+    "rmse": 4.6198988875725957e-07,
+    "p99_abs": 1.430511474609375e-06,
+    "rel_l2": 1.741966629442964e-06,
+    "cosine": 0.999999999998495,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      21,
+      383
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_002.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 4.663099925242672e-07,
+    "rmse": 9.618830314245746e-07,
+    "p99_abs": 1.9073486328125e-06,
+    "rel_l2": 2.9084246662578045e-07,
+    "cosine": 0.9999999999999828,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_003.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 3.0517578125e-05,
+    "mae": 5.048794459331216e-07,
+    "rmse": 7.150779147273404e-07,
+    "p99_abs": 2.1702796220779484e-06,
+    "rel_l2": 8.65136061029886e-08,
+    "cosine": 0.9999999999999968,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_004.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 3.0517578125e-05,
+    "mae": 5.181759092920402e-07,
+    "rmse": 7.371171062924458e-07,
+    "p99_abs": 2.250075340270996e-06,
+    "rel_l2": 8.905410593817097e-08,
+    "cosine": 0.9999999999999964,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_005.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 4.855357929045567e-07,
+    "rmse": 6.830802940260156e-07,
+    "p99_abs": 2.086162567138672e-06,
+    "rel_l2": 8.101253321911083e-08,
+    "cosine": 0.9999999999999961,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_006.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 4.863984161472347e-07,
+    "rmse": 6.998836433046149e-07,
+    "p99_abs": 2.205371856689453e-06,
+    "rel_l2": 8.295278907586185e-08,
+    "cosine": 0.9999999999999963,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_007.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.017763312155563e-07,
+    "rmse": 7.219287975617178e-07,
+    "p99_abs": 2.3245811462402344e-06,
+    "rel_l2": 8.552777529552415e-08,
+    "cosine": 0.999999999999997,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_008.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.330407637822126e-07,
+    "rmse": 7.575963332618411e-07,
+    "p99_abs": 2.384185791015625e-06,
+    "rel_l2": 8.971163040312471e-08,
+    "cosine": 0.9999999999999963,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_009.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.227798201953451e-07,
+    "rmse": 7.506826029116131e-07,
+    "p99_abs": 2.384185791015625e-06,
+    "rel_l2": 8.885881407405506e-08,
+    "cosine": 0.9999999999999967,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_010.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.531954262291297e-07,
+    "rmse": 7.790820927285023e-07,
+    "p99_abs": 2.384185791015625e-06,
+    "rel_l2": 9.212556795449506e-08,
+    "cosine": 0.9999999999999954,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_011.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.709895601415025e-07,
+    "rmse": 7.980235250787777e-07,
+    "p99_abs": 2.402868121862423e-06,
+    "rel_l2": 9.430423336491605e-08,
+    "cosine": 0.999999999999996,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_012.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.824162242009021e-07,
+    "rmse": 8.140482999902749e-07,
+    "p99_abs": 2.4884939193725586e-06,
+    "rel_l2": 9.611853099995878e-08,
+    "cosine": 0.9999999999999953,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_013.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 5.908628963879892e-07,
+    "rmse": 8.24613628563934e-07,
+    "p99_abs": 2.5033950805664062e-06,
+    "rel_l2": 9.732368582792388e-08,
+    "cosine": 0.9999999999999952,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_014.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 6.386400985190579e-07,
+    "rmse": 8.743560444294322e-07,
+    "p99_abs": 2.562999725341797e-06,
+    "rel_l2": 1.0307495933982258e-07,
+    "cosine": 0.9999999999999947,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_015.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 6.767108483732695e-07,
+    "rmse": 9.195954464335331e-07,
+    "p99_abs": 2.6567280292511116e-06,
+    "rel_l2": 1.0822369082808893e-07,
+    "cosine": 0.9999999999999939,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_016.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 7.825210559531115e-07,
+    "rmse": 1.0579621456634812e-06,
+    "p99_abs": 3.039836883544922e-06,
+    "rel_l2": 1.243331209708113e-07,
+    "cosine": 0.999999999999992,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_017.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 8.846744451927537e-07,
+    "rmse": 1.1772714780631683e-06,
+    "p99_abs": 3.337860107421875e-06,
+    "rel_l2": 1.3808550142651508e-07,
+    "cosine": 0.9999999999999902,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_018.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 1.0266924813809704e-06,
+    "rmse": 1.345416788881077e-06,
+    "p99_abs": 3.814697265625e-06,
+    "rel_l2": 1.5751974506317913e-07,
+    "cosine": 0.9999999999999876,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_019.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 1.1747138159989845e-06,
+    "rmse": 1.5300157715155279e-06,
+    "p99_abs": 4.291534423828125e-06,
+    "rel_l2": 1.787842861418821e-07,
+    "cosine": 0.9999999999999833,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_020.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 2.288818359375e-05,
+    "mae": 1.387891545943733e-06,
+    "rmse": 1.8056682955780303e-06,
+    "p99_abs": 5.0067901611328125e-06,
+    "rel_l2": 2.0996507566327415e-07,
+    "cosine": 0.9999999999999778,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_021.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 1.5291285697977791e-06,
+    "rmse": 2.1762545088328582e-06,
+    "p99_abs": 5.602836608886719e-06,
+    "rel_l2": 1.0122089274911598e-06,
+    "cosine": 0.9999999999994919,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_022.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 4.76837158203125e-05,
+    "mae": 1.9135571035024313e-06,
+    "rmse": 2.5530857866216075e-06,
+    "p99_abs": 7.450580596923828e-06,
+    "rel_l2": 1.0817855176829648e-06,
+    "cosine": 0.9999999999994152,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      53
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "layer_023.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001697540283203125,
+    "mae": 2.3513039845316338e-06,
+    "rmse": 3.4297182635591373e-06,
+    "p99_abs": 1.049041748046875e-05,
+    "rel_l2": 1.5796816799940273e-06,
+    "cosine": 0.9999999999987573,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      490
+    ]
+  },
+  {
+    "sample": "code",
+    "tensor": "logits.npy",
+    "elements": 4861952,
+    "nonfinite": 0,
+    "max_abs": 3.6716461181640625e-05,
+    "mae": 3.900517386671513e-06,
+    "rmse": 5.004802404019281e-06,
+    "p99_abs": 1.3828277587890625e-05,
+    "rel_l2": 1.634649213521362e-06,
+    "cosine": 0.9999999999986519,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      1,
+      83598
+    ],
+    "top1_agreement": 1.0
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_000.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 1.0967254638671875e-05,
+    "mae": 3.581751428782809e-07,
+    "rmse": 5.072044745252298e-07,
+    "p99_abs": 1.5321746468544039e-06,
+    "rel_l2": 2.1415069078225485e-06,
+    "cosine": 0.9999999999977177,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      13,
+      490
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_001.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 1.0967254638671875e-05,
+    "mae": 4.857737435161522e-07,
+    "rmse": 6.588727593446976e-07,
+    "p99_abs": 1.8477439880371094e-06,
+    "rel_l2": 2.197784076394318e-06,
+    "cosine": 0.9999999999975894,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      3,
+      490
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_002.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0006103515625,
+    "mae": 6.995859718829576e-07,
+    "rmse": 3.761275243344033e-06,
+    "p99_abs": 2.86102294921875e-06,
+    "rel_l2": 9.082609926898684e-07,
+    "cosine": 0.9999999999999767,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_003.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 7.798664601718233e-07,
+    "rmse": 5.176900419731644e-06,
+    "p99_abs": 3.2676756381988655e-06,
+    "rel_l2": 5.635193038192306e-07,
+    "cosine": 0.9999999999999944,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_004.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.328026654323497e-07,
+    "rmse": 5.194132662914192e-06,
+    "p99_abs": 3.7561729550361666e-06,
+    "rel_l2": 5.646584295390672e-07,
+    "cosine": 0.9999999999999905,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_005.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.322808428472075e-07,
+    "rmse": 5.197499697267873e-06,
+    "p99_abs": 3.814697265625e-06,
+    "rel_l2": 5.556814469750788e-07,
+    "cosine": 0.9999999999999918,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_006.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.406369228656072e-07,
+    "rmse": 5.202305245043081e-06,
+    "p99_abs": 4.012733697891248e-06,
+    "rel_l2": 5.558809632392825e-07,
+    "cosine": 0.9999999999999917,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_007.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.309900221904951e-07,
+    "rmse": 5.2030704248606715e-06,
+    "p99_abs": 4.075467586517334e-06,
+    "rel_l2": 5.557492616439022e-07,
+    "cosine": 0.9999999999999909,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_008.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.407888815651989e-07,
+    "rmse": 5.206709944248068e-06,
+    "p99_abs": 4.202127456665039e-06,
+    "rel_l2": 5.559128209274014e-07,
+    "cosine": 0.9999999999999915,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_009.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.204094196376641e-07,
+    "rmse": 5.201600749008088e-06,
+    "p99_abs": 4.0531158447265625e-06,
+    "rel_l2": 5.551546278975015e-07,
+    "cosine": 0.9999999999999926,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_010.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.372052044640961e-07,
+    "rmse": 5.206726506707695e-06,
+    "p99_abs": 4.161745309829725e-06,
+    "rel_l2": 5.551992905742888e-07,
+    "cosine": 0.9999999999999915,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_011.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.536166790560986e-07,
+    "rmse": 5.211350029634045e-06,
+    "p99_abs": 4.211738705635077e-06,
+    "rel_l2": 5.554106966314232e-07,
+    "cosine": 0.9999999999999916,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_012.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.739140672072868e-07,
+    "rmse": 5.2161234626628995e-06,
+    "p99_abs": 4.231929779052734e-06,
+    "rel_l2": 5.554549786128307e-07,
+    "cosine": 0.999999999999991,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_013.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 8.914069391201857e-07,
+    "rmse": 5.2211521553325945e-06,
+    "p99_abs": 4.291534423828125e-06,
+    "rel_l2": 5.557741940579573e-07,
+    "cosine": 0.99999999999999,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_014.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 9.281683820258227e-07,
+    "rmse": 5.23050038200293e-06,
+    "p99_abs": 4.291534423828125e-06,
+    "rel_l2": 5.562101551545674e-07,
+    "cosine": 0.9999999999999897,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_015.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 9.553829646132987e-07,
+    "rmse": 5.239974590193242e-06,
+    "p99_abs": 4.5299530029296875e-06,
+    "rel_l2": 5.563344464074102e-07,
+    "cosine": 0.9999999999999896,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_016.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 1.150978903297073e-06,
+    "rmse": 5.3163374227495994e-06,
+    "p99_abs": 5.602836608886719e-06,
+    "rel_l2": 5.635558877494448e-07,
+    "cosine": 0.999999999999985,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_017.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 1.286614373644365e-06,
+    "rmse": 5.371659620943901e-06,
+    "p99_abs": 5.8710575103759766e-06,
+    "rel_l2": 5.682956412130745e-07,
+    "cosine": 0.9999999999999806,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_018.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 1.4902111778220778e-06,
+    "rmse": 5.452875478067262e-06,
+    "p99_abs": 6.4373016357421875e-06,
+    "rel_l2": 5.760961120353045e-07,
+    "cosine": 0.9999999999999745,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_019.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 1.7610792448457296e-06,
+    "rmse": 5.581781925133338e-06,
+    "p99_abs": 7.2366744279861515e-06,
+    "rel_l2": 5.883223670533954e-07,
+    "cosine": 0.9999999999999674,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_020.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0008544921875,
+    "mae": 2.115205104148897e-06,
+    "rmse": 5.783366081144733e-06,
+    "p99_abs": 8.58306884765625e-06,
+    "rel_l2": 6.066410303224481e-07,
+    "cosine": 0.9999999999999534,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_021.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.000732421875,
+    "mae": 2.397283684071486e-06,
+    "rmse": 5.354660981381898e-06,
+    "p99_abs": 9.506940841674805e-06,
+    "rel_l2": 2.3208516277175513e-06,
+    "cosine": 0.9999999999973266,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_022.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0002880096435546875,
+    "mae": 3.2140173321490044e-06,
+    "rmse": 5.073826845380997e-06,
+    "p99_abs": 1.6689300537109375e-05,
+    "rel_l2": 1.983721480342667e-06,
+    "cosine": 0.9999999999980368,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "layer_023.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.00015926361083984375,
+    "mae": 3.85665569930487e-06,
+    "rmse": 6.010181255760612e-06,
+    "p99_abs": 2.1457672119140625e-05,
+    "rel_l2": 2.676862086966218e-06,
+    "cosine": 0.9999999999964372,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "korean",
+    "tensor": "logits.npy",
+    "elements": 4861952,
+    "nonfinite": 0,
+    "max_abs": 0.0001354217529296875,
+    "mae": 5.6214296395495056e-06,
+    "rmse": 7.953905553716141e-06,
+    "p99_abs": 2.6941299438476562e-05,
+    "rel_l2": 1.838521136149345e-06,
+    "cosine": 0.9999999999983012,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      77674
+    ],
+    "top1_agreement": 1.0
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_000.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 6.67572021484375e-06,
+    "mae": 1.9196283826009415e-07,
+    "rmse": 2.749130001593136e-07,
+    "p99_abs": 8.642673492431641e-07,
+    "rel_l2": 1.7399453262568352e-06,
+    "cosine": 0.9999999999984888,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      1,
+      490
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_001.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 3.0994415283203125e-06,
+    "mae": 3.210809568697316e-07,
+    "rmse": 4.2161880991560816e-07,
+    "p99_abs": 1.2341514229774508e-06,
+    "rel_l2": 1.6997088189542125e-06,
+    "cosine": 0.9999999999985563,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      21,
+      490
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_002.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 4.6475086687028775e-07,
+    "rmse": 9.595228327156468e-07,
+    "p99_abs": 1.7285346984863281e-06,
+    "rel_l2": 2.055566449617545e-07,
+    "cosine": 0.9999999999999901,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_003.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 5.270971590627076e-07,
+    "rmse": 1.0303151059607342e-06,
+    "p99_abs": 1.996755599975586e-06,
+    "rel_l2": 1.0554635779973145e-07,
+    "cosine": 0.9999999999999977,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_004.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 5.666901756740117e-07,
+    "rmse": 1.074846084455465e-06,
+    "p99_abs": 2.282038331031806e-06,
+    "rel_l2": 1.099812983858035e-07,
+    "cosine": 0.9999999999999966,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_005.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 5.634217846558645e-07,
+    "rmse": 1.0730643252856322e-06,
+    "p99_abs": 2.2649765014648438e-06,
+    "rel_l2": 1.0808445535264591e-07,
+    "cosine": 0.9999999999999983,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_006.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 5.843910132950571e-07,
+    "rmse": 1.0970137380641493e-06,
+    "p99_abs": 2.384185791015625e-06,
+    "rel_l2": 1.1044392750774086e-07,
+    "cosine": 0.9999999999999963,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_007.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 6.055411988979489e-07,
+    "rmse": 1.1228785469860804e-06,
+    "p99_abs": 2.6226043701171875e-06,
+    "rel_l2": 1.1300854814529359e-07,
+    "cosine": 0.9999999999999948,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_008.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 6.453810621159002e-07,
+    "rmse": 1.1571714369376767e-06,
+    "p99_abs": 2.7418136596679688e-06,
+    "rel_l2": 1.1641488338300988e-07,
+    "cosine": 0.9999999999999956,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_009.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 6.698928375824056e-07,
+    "rmse": 1.1820651896724981e-06,
+    "p99_abs": 2.86102294921875e-06,
+    "rel_l2": 1.1887144480481717e-07,
+    "cosine": 0.9999999999999951,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_010.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 6.959731178670024e-07,
+    "rmse": 1.207694654866615e-06,
+    "p99_abs": 2.86102294921875e-06,
+    "rel_l2": 1.213560614250114e-07,
+    "cosine": 0.9999999999999954,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_011.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 7.430726327584125e-07,
+    "rmse": 1.2579105838479675e-06,
+    "p99_abs": 3.0994415283203125e-06,
+    "rel_l2": 1.2632924734867695e-07,
+    "cosine": 0.9999999999999936,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_012.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 7.68506643973004e-07,
+    "rmse": 1.2842428763908695e-06,
+    "p99_abs": 3.2186508178710938e-06,
+    "rel_l2": 1.28878543050794e-07,
+    "cosine": 0.9999999999999942,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_013.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 7.981658224512753e-07,
+    "rmse": 1.312526434691833e-06,
+    "p99_abs": 3.248453140258789e-06,
+    "rel_l2": 1.316595913873649e-07,
+    "cosine": 0.9999999999999949,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_014.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 8.486958985745982e-07,
+    "rmse": 1.3583683647183665e-06,
+    "p99_abs": 3.337860107421875e-06,
+    "rel_l2": 1.3613827271091685e-07,
+    "cosine": 0.9999999999999941,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_015.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 9.267851055483334e-07,
+    "rmse": 1.4455676254533684e-06,
+    "p99_abs": 3.6656856536865234e-06,
+    "rel_l2": 1.4468002343507225e-07,
+    "cosine": 0.999999999999993,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_016.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 1.1235797338875791e-06,
+    "rmse": 1.6800607261768739e-06,
+    "p99_abs": 4.5299530029296875e-06,
+    "rel_l2": 1.6799100557157085e-07,
+    "cosine": 0.9999999999999883,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_017.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 1.331548446614761e-06,
+    "rmse": 1.919928457953574e-06,
+    "p99_abs": 5.304813385009766e-06,
+    "rel_l2": 1.9168795581228123e-07,
+    "cosine": 0.9999999999999841,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_018.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 1.575405056947992e-06,
+    "rmse": 2.2202322951884126e-06,
+    "p99_abs": 6.296932697296169e-06,
+    "rel_l2": 2.214133680171655e-07,
+    "cosine": 0.9999999999999779,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_019.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 1.8327778304540386e-06,
+    "rmse": 2.5460359051945215e-06,
+    "p99_abs": 7.255896925926228e-06,
+    "rel_l2": 2.537095887428596e-07,
+    "cosine": 0.9999999999999694,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_020.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.0001220703125,
+    "mae": 2.1881960492464714e-06,
+    "rmse": 3.0084417981136274e-06,
+    "p99_abs": 8.881092071533203e-06,
+    "rel_l2": 2.9894275884453484e-07,
+    "cosine": 0.9999999999999571,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_021.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.000732421875,
+    "mae": 2.5430985520610453e-06,
+    "rmse": 5.521306098859836e-06,
+    "p99_abs": 1.0260641574859645e-05,
+    "rel_l2": 2.676205991787732e-06,
+    "cosine": 0.9999999999964567,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_022.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.000171661376953125,
+    "mae": 3.32051331497496e-06,
+    "rmse": 4.932270607942603e-06,
+    "p99_abs": 1.71661376953125e-05,
+    "rel_l2": 2.1062085439109285e-06,
+    "cosine": 0.9999999999977823,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      62
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "layer_023.output.npy",
+    "elements": 28672,
+    "nonfinite": 0,
+    "max_abs": 0.00010204315185546875,
+    "mae": 3.9591331772369036e-06,
+    "rmse": 6.043288755616428e-06,
+    "p99_abs": 2.2565126419067487e-05,
+    "rel_l2": 2.764375020181372e-06,
+    "cosine": 0.9999999999961814,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      190
+    ]
+  },
+  {
+    "sample": "numbers",
+    "tensor": "logits.npy",
+    "elements": 4861952,
+    "nonfinite": 0,
+    "max_abs": 0.00011277198791503906,
+    "mae": 5.737141652612223e-06,
+    "rmse": 8.016803303505397e-06,
+    "p99_abs": 2.6941299438476562e-05,
+    "rel_l2": 2.5302479865785774e-06,
+    "cosine": 0.9999999999967847,
+    "outside_tolerance_fraction": 0.0,
+    "max_index": [
+      0,
+      0,
+      8875
+    ],
+    "top1_agreement": 1.0
+  }
+]

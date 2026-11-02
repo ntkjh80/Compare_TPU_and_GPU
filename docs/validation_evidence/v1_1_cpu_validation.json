@@ -1,0 +1,92 @@
+{
+  "package_version": "1.1.0",
+  "date": "2026-11-02",
+  "environment": {
+    "python": "3.12.14",
+    "system": "Linux-6.18.57-x86_64-with-glibc2.39",
+    "packages": {
+      "jax": "0.12.0.1",
+      "jaxlib": "0.12.0.1",
+      "numpy": "2.5.4",
+      "ml_dtypes": "0.6.0",
+      "scipy": "1.18.1"
+    }
+  },
+  "scope": "CPU synthetic fixture and independent small Qwen2 reference; no GPU or TPU execution",
+  "pytest": {
+    "passed": 14,
+    "skipped": 0,
+    "elapsed_seconds": 11.06,
+    "reference_cases": 2
+  },
+  "fresh_setup_cpu": "passed",
+  "doctor_cpu": "passed",
+  "pip_check": "passed",
+  "docs_relative_links": "passed",
+  "python_syntax": "passed",
+  "shell_syntax": "passed",
+  "smoke": {
+    "completed": true,
+    "synthetic_weights": true,
+    "layers": 2,
+    "tokens": 8,
+    "dtype": "bf16",
+    "repeats": 2,
+    "repeat_summary": {
+      "setting_differences": [],
+      "nonfinite_tensors": 0,
+      "atol": 1e-05,
+      "rtol": 0.001,
+      "tensor_count": 24,
+      "left_backend": "cpu",
+      "right_backend": "cpu",
+      "note": "허용치 초과율은 탐색 지표이며 모델 합격/불합격 판정이 아닙니다.",
+      "instrumentation": [
+        {
+          "side": "left",
+          "checks": 2,
+          "changed": 0,
+          "nonfinite": 0
+        },
+        {
+          "side": "right",
+          "checks": 2,
+          "changed": 0,
+          "nonfinite": 0
+        }
+      ]
+    },
+    "repeat_max_abs": 0.0,
+    "gemm_reference_max_abs": 3.457535058259964e-08,
+    "gemm_reference_max_rel_l2": 4.930071383061354e-08
+  },
+  "source_sha256": {
+    "model.py": "98577e9130664e9561ad698809b159efc9bbbf68b2c8f131a09eb155e7129aad",
+    "io.py": "0bb946cd3afa14850422c0c7e57a1931fb0aa4f795d232fb17525fd7664c4c8b",
+    "metrics.py": "e4f24a851b62045c43a0a463943e87e16664c54a89d2f5a401db1ab40adea071",
+    "__init__.py": "2c40545154e1b92043a50251c4c74917c5e5af5a0ec522e356f021af1d55fa7a",
+    "prepare.py": "3669bec99de76a172a0eb9693d3fa22aad8bb6267f98e1aef0561b6cd83bb0ae",
+    "smoke.py": "edf39399ded903db62d623e609281dee1ea358cd4f3b79d15485958550bedf87",
+    "compare.py": "6d1ce15504437c53b1fd10e5ecf509accdbb9001957ea52f1821e41d577b5fd5",
+    "run.py": "8741a99f3dcd780738bb36d1debd6629270612c4bc1ac6ce6d9f186f17e2b437",
+    "__main__.py": "f77433fe4286bb6fcca68cc99b2ce45deb752f81d14a7bbe217082327326b0ef"
+  },
+  "wheel_and_sdist_build": "passed",
+  "not_executed": [
+    "GPU hardware",
+    "TPU hardware",
+    "GKE deployment",
+    "hosted GitHub Actions",
+    "real 0.5B checkpoint validation for v1.1"
+  ],
+  "isolated_wheel_install": {
+    "fresh_venv": true,
+    "editable": false,
+    "outside_source_tree": true,
+    "pip_check": "passed",
+    "version": "1.1.0",
+    "doctor_cpu": "passed",
+    "smoke_cpu": "passed"
+  },
+  "git_diff_check": "passed"
+}

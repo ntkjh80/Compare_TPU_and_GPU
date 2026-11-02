@@ -1,0 +1,35 @@
+{
+  "version": "1.2.0",
+  "checked_on": "2026-11-02",
+  "python": "3.12.14",
+  "pytest": {
+    "passed": 24,
+    "skipped": 0,
+    "elapsed_seconds": 18.31,
+    "existing_core_and_cli": 14,
+    "vllm_api_contract_tests": 10
+  },
+  "actual_vllm_server_tested": false,
+  "gpu_tpu_hardware_tested": false,
+  "api_validation": "local HTTP mock and unit tests; not a vLLM inference run",
+  "checks": [
+    "docs relative links",
+    "Python compileall",
+    "bash syntax",
+    "pip check",
+    "git diff --cached --check",
+    "wheel and sdist build"
+  ],
+  "probe_sha256": "8c12284a50bd7383ba55815229127101c66a76264bf7666f668eb3294479ec23",
+  "not_implemented": [
+    "vLLM worker layer adapter",
+    "vLLM kernel replay",
+    "stateful decode capture"
+  ],
+  "not_executed": [
+    "hidden state extraction on GPU/TPU",
+    "Trace Replay on TPU",
+    "GKE deployment",
+    "hosted GitHub Actions"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "torch": "2.6.0+cpu",
+  "transformers": "4.51.3",
+  "atol": 0.0005,
+  "rtol": 0.0005,
+  "note": "FP32 진단 구현의 이식 확인 기준. BF16 GPU/TPU 합격 기준은 아닙니다.",
+  "max_abs": 0.0008544921875,
+  "tensors": 75
+}

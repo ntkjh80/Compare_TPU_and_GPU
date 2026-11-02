@@ -1,0 +1,7 @@
+include README.md CHANGELOG.md CONTRIBUTING.md
+recursive-include docs *.md *.json *.txt
+recursive-include scripts *.py *.sh
+recursive-include deploy *.yaml
+recursive-include examples *.jsonl *.md *.csv *.json *.png
+recursive-include tests *.py
+global-exclude __pycache__ *.py[cod]

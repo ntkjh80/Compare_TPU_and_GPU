@@ -1,0 +1,36 @@
+# 기존 H200 GKE Standard 노드풀용. YOUR_GPU_NODE_POOL을 실제 이름으로 변경합니다.
+# /work는 emptyDir입니다. Pod 삭제 전에 결과를 내려받으세요.
+apiVersion: v1
+kind: Pod
+metadata:
+  name: parity-gpu
+spec:
+  restartPolicy: Never
+  nodeSelector:
+    cloud.google.com/gke-nodepool: YOUR_GPU_NODE_POOL
+  tolerations:
+    - key: nvidia.com/gpu
+      operator: Exists
+      effect: NoSchedule
+  containers:
+    - name: lab
+      image: python:3.12-slim-bookworm
+      command: ["bash", "-lc", "sleep infinity"]
+      workingDir: /work
+      resources:
+        requests:
+          cpu: "4"
+          memory: 16Gi
+          ephemeral-storage: 40Gi
+          nvidia.com/gpu: "1"
+        limits:
+          memory: 32Gi
+          ephemeral-storage: 80Gi
+          nvidia.com/gpu: "1"
+      volumeMounts:
+        - name: work
+          mountPath: /work
+  volumes:
+    - name: work
+      emptyDir:
+        sizeLimit: 70Gi

@@ -1,0 +1,26 @@
+{
+  "setting_differences": [
+    "dtype"
+  ],
+  "nonfinite_tensors": 0,
+  "atol": 1e-05,
+  "rtol": 0.001,
+  "tensor_count": 318,
+  "left_backend": "cpu",
+  "right_backend": "cpu",
+  "note": "허용치 초과율은 탐색 지표이며 모델 합격/불합격 판정이 아닙니다.",
+  "instrumentation": [
+    {
+      "side": "left",
+      "checks": 9,
+      "changed": 0,
+      "nonfinite": 0
+    },
+    {
+      "side": "right",
+      "checks": 18,
+      "changed": 0,
+      "nonfinite": 0
+    }
+  ]
+}

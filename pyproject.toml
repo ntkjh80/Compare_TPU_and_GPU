@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gpu-tpu-layer-parity"
+version = "1.2.0"
+description = "Layer-wise numerical comparison of a common JAX Qwen2 implementation on GPU and TPU"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = ["numpy==2.5.4", "huggingface-hub==0.30.2", "tokenizers==0.21.4", "matplotlib==3.10.8"]
+
+[project.optional-dependencies]
+cpu = ["jax[cpu]==0.12.0.1", "jaxlib==0.12.0.1"]
+gpu = ["jax[cuda12]==0.12.0.1", "jaxlib==0.12.0.1"]
+cuda13 = ["jax[cuda13]==0.12.0.1", "jaxlib==0.12.0.1"]
+tpu = ["jax[tpu]==0.12.0.1", "jaxlib==0.12.0.1"]
+dev = ["pytest==8.3.5", "build>=1.2,<2"]
+reference = ["torch==2.6.0", "transformers==4.51.3", "safetensors==0.5.3"]
+
+[project.scripts]
+layer-parity = "parity.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["reference: requires the independent Transformers/PyTorch reference implementation"]
